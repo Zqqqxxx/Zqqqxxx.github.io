@@ -11,14 +11,14 @@ Personal Homepage
  
 Course Studies
  
-Guojiawei
+384
 I'm a college student majoring in Information Security
  
 Follow
  
 👋 Welcome to My Personal Homepage
  
-Hi everyone! I'm Guojiawei, a 2025 freshman majoring in Information Security at Jiangxi University of Science and Technology.
+Hi everyone! I'm 384, a 2025 freshman majoring in Information Security at Jiangxi University of Science and Technology.
 This is my first personal homepage in college, where I'll document my learning journey, growth, and projects.
  
 I'm interested in cybersecurity, programming, and open-source technologies, and I hope to become a cybersecurity engineer or developer in the future.
