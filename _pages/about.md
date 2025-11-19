@@ -112,4 +112,3 @@ Follow:
 © 2025 jiangnan, Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
 Site last updated 2025-11-17
  
-要不要我帮你把这个英文版本调整成更符合学术/技术主页风格的表达（比如优化专业术语或句子流畅度）？
