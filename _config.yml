@@ -13,7 +13,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://Zqqqxxx.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,12 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "384.png"
+  name             : "G384"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "
+ 
+1. 沉迷宅家娱乐：常待在木匠店地下室，痴迷电子游戏，好感达标后还会邀朋友在房间一起玩；同时也酷爱看漫画和科幻小说，把不少时间花在这些爱好上。
+2. 摆弄摩托车与深夜飙车：私下喜欢修理摩托车，车库是他摆弄爱车的地方，还会趁深夜飙车释放压力，这是我不为人知的放松方式。
+3. 和好友组乐队：我与山姆是要好的朋友，有着组建乐队的共同梦想，平时也会去山姆家一起弹琴排练。
+4. 其他小习惯：我对青蛙很有好感，好感提升后会考虑繁殖青蛙，房间里还会出现青蛙；另外，我有傍晚去湖边抽烟的习惯，雨天时也常去海滩待着。"
+  location         : "鹈鹕镇"
+  employer         : "Jiangxi University of Science and Technology"
   uri              : # URL
   email            : "none@example.org" 
 
